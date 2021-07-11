@@ -35,6 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [# Laravel Seeder - Laravel Advanced Bangla Video Tutorials in Depth Discussion](https://www.youtube.com/watch?v=axfCoJIsEOU)
+- [Laravel Advanced Topics Learning Bangla Video Tutorial Series - Introduction](https://www.youtube.com/watch?v=s6hdSsGjsgE)
+- [#22 React Basic to Pro Bangla Video Tutorial - Day 22 - React useEffect Hook In Depth](https://www.youtube.com/watch?v=LhmCRE-Cjik)
+- [#21 React Basic to Pro Bangla Video Tutorial - Todo Application Complete Part 2 in React (Finish)](https://www.youtube.com/watch?v=Yk_2fiSIe6w)
+- [#20 React Basic To Pro Bangla Video Tutorial - Complete Todo Application in React Bangla Part 1](https://www.youtube.com/watch?v=tTkExcqhZ7w)
 <!-- YOUTUBE:END -->
 
 <br />
