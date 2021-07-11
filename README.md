@@ -43,13 +43,15 @@
 <!-- YOUTUBE:END -->
 
 <br />
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManiruzzamanAkash&show_icons=true&locale=en&layout=compact" alt="ManiruzzamanAkash" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManiruzzamanAkash&show_icons=true&locale=en&layout=compact&theme=radical" alt="ManiruzzamanAkash" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManiruzzamanAkash&show_icons=true&locale=en" alt="ManiruzzamanAkash" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManiruzzamanAkash&show_icons=true&locale=en&theme=radical" alt="ManiruzzamanAkash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManiruzzamanAkash&" alt="ManiruzzamanAkash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManiruzzamanAkash&theme=radical" alt="ManiruzzamanAkash" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"><a href="mailto:manirujjamanakash@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="ManiruzzamanAkash" height="40" width="40" /></a>&nbsp;<a href="https://twitter.com/ManiruzzamanAk" target="blank" ><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.linkedin.com/in/maniruzzamanakash/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://stackoverflow.com/users/5543577/maniruzzaman-akash" target="blank"><img align="center" src="https://img2.pngio.com/stackoverflow-icon-stack-overflow-png-512_512.png" alt="705293/ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://fb.com/maniruzzaman.akash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://maniruzzamanakash.medium.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.youtube.com/channel/UCHNblf0ynrP1DvoIO-ikgGg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.hackerrank.com/Maniruzzaman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ManiruzzamanAkash" height="40" width="40" /></a></p>
+<br />
