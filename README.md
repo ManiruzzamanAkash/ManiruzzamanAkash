@@ -35,11 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Laravel with Vue JS - Laravel Advanced Bangla Video Tutorial - Make first Vue Component with Laravel](https://www.youtube.com/watch?v=Qpdpo6IlLSs)
 - [AJAX with Laravel - Learn AJAX with Laravel in 1 hour - Laravel Advanced Bangla Video Tutorial](https://www.youtube.com/watch?v=Yi-c8YpiLDs)
 - [Laravel Observer -  Laravel Advanced Bangla Video Tutorial - Beyond the Laravel](https://www.youtube.com/watch?v=iVxPzZHzRss)
 - [# Laravel Seeder - Laravel Advanced Bangla Video Tutorials in Depth Discussion](https://www.youtube.com/watch?v=axfCoJIsEOU)
 - [Laravel Advanced Topics Learning Bangla Video Tutorial Series - Introduction](https://www.youtube.com/watch?v=s6hdSsGjsgE)
-- [#22 React Basic to Pro Bangla Video Tutorial - Day 22 - React useEffect Hook In Depth](https://www.youtube.com/watch?v=LhmCRE-Cjik)
 <!-- YOUTUBE:END -->
 
 <br />
