@@ -35,7 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [AJAX with Laravel - Laravel Advance Bangla Video Tutorial - AJAX Complete Video Tutorial](https://www.youtube.com/watch?v=Yi-c8YpiLDs)
+- [AJAX with Laravel - Learn AJAX with Laravel in 1 hour - Laravel Advanced Bangla Video Tutorial](https://www.youtube.com/watch?v=Yi-c8YpiLDs)
 - [Laravel Observer -  Laravel Advanced Bangla Video Tutorial - Beyond the Laravel](https://www.youtube.com/watch?v=iVxPzZHzRss)
 - [# Laravel Seeder - Laravel Advanced Bangla Video Tutorials in Depth Discussion](https://www.youtube.com/watch?v=axfCoJIsEOU)
 - [Laravel Advanced Topics Learning Bangla Video Tutorial Series - Introduction](https://www.youtube.com/watch?v=s6hdSsGjsgE)
