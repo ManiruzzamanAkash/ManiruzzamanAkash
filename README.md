@@ -6,7 +6,7 @@
 
 - 🔭  &nbsp; I’m currently working on **WeDevs Ltd.**
 
-- ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **React**, **Next JS, Nuxt JS**, **React Native**, **Vue JS**, **Wordpress**
+- ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **React**, **Next JS, Nuxt JS**, **React Native**, **Vue JS**, **Node JS**, **Wordpress**
 
 - ⭆  &nbsp; I’m currently learning **Typescript**, **GraphQL**, **GoLang**, **DevOps**
 
