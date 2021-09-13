@@ -1,24 +1,28 @@
 ### Hello 👋
-<h1 align="center">Hi 👋, I'm Maniruzzaman Akash</h1>
+<h1 align="center">Hi 👋 I'm Maniruzzaman Akash</h1>
 
-<h5 align="center">A passionate web/app developer who is playing with PHP, Laravel, React, React Native, Vue and more...</h5>
+<h5 align="center">A passionate web/app developer who is writing stuffs with PHP, Laravel, React, React Native, Vue, Wordpress and more...</h5>
 
 
-- 🔭  &nbsp; I’m currently working on **WeDevs Ltd.**
+- 🔭  &nbsp; I’m currently working at **[WeDevs Ltd](https://wedevs.com).**
 
-- ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **React**, **Next JS, Nuxt JS**, **React Native**, **Vue JS**, **Node JS**, **Wordpress**
+- ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **React**, **Redux**, **Next JS**, **React Native**, **Vue JS**, **Node JS**, **Wordpress**
 
-- ⭆  &nbsp; I’m currently learning **Typescript**, **GraphQL**, **GoLang**, **DevOps**
+- ⭆  &nbsp; I’m currently learning **Typescript**, **GraphQL**, **GoLang**, **Docker**, **DevOps**
 
-- 👯  &nbsp; I’m looking to collaborate on **Open Source Projects**
+- 👯  &nbsp; I’m looking to collaborate on **Open Source Projects/Libraries with PHP and JavaScript**
 
-- 👨‍💻  &nbsp; All of my projects are available at [https://github.com/ManiruzzamanAkash?tab=repositories](https://github.com/ManiruzzamanAkash?tab=repositories)
+- 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/ManiruzzamanAkash?tab=repositories](https://github.com/ManiruzzamanAkash?tab=repositories)
 
-- 💬  &nbsp;Ask me about **Your problem and get a well organized solution**
+- 💬  &nbsp;Ask me about **PHP, JavaScript, Laravel, React and Wordpress**
 
-- 📫  &nbsp;How to reach me **manirujjamanakash@gmail.com**
+- 📫  &nbsp;How to reach me **manirujjamanakash@gmail.com** [Preferrable]
+
+- 📫  &nbsp;Urgent Contact **+8801951233084** [Not Preferrable in Normal Case]
 
 - ⚡  &nbsp;Fun fact **I love to watch movies...:P**
+
+- 🔥 &nbsp;My Greatest Power - **I can learn stuffs quickly & make anything beautifully !**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="ManiruzzamanAkash" /> </p>
@@ -48,7 +52,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManiruzzamanAkash&show_icons=true&locale=en&theme=radical" alt="ManiruzzamanAkash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManiruzzamanAkash&theme=radical" alt="ManiruzzamanAkash" /></p>
-
 
 
 <h3 align="left">Connect with me:</h3>
