@@ -8,7 +8,7 @@
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **React**, **Redux**, **Next JS**, **React Native**, **Vue JS**, **Node JS**, **Wordpress**
 
-- ⭆  &nbsp; I’m currently learning **Typescript**, **GraphQL**, **GoLang**, **Docker**, **DevOps**
+- ⭆  &nbsp; I’m currently learning **Typescript**, **GraphQL**, **GoLang**, **Docker**, **DevOps**, **Nest JS**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects/Libraries with PHP and JavaScript**
 
@@ -22,7 +22,7 @@
 
 - ⚡  &nbsp;Fun fact **I love to watch movies...:P**
 
-- 🔥 &nbsp;My Greatest Power - **I can learn stuffs quickly & make anything beautifully !**
+- 🔥 &nbsp;My Greatest Power - **I can learn stuffs quickly & implement on demand !**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="ManiruzzamanAkash" /> </p>
