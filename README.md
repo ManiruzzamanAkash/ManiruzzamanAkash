@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Part 32 - Migrate Laravel From 5.6 to 8.6 - Laravel Ecommerce Bangla Video Tutorial Series](https://www.youtube.com/watch?v=5pyuHmjxGCM)
+- [Part 32 - Upgrade Laravel From 5.6 to 8.6 - Laravel Ecommerce Bangla Video Tutorial Series](https://www.youtube.com/watch?v=5pyuHmjxGCM)
 - [#23 useMemo() Hook in React  in Depth - React Basic To Pro Bangla Video Tutorial](https://www.youtube.com/watch?v=ycU2liNekd4)
 - [#15 Laravel Membership Management Day 15 -  Manage all data in a Seeder](https://www.youtube.com/watch?v=ArLciTf3fG4)
 - [Laravel with Vue JS - Laravel Advanced Bangla Video Tutorial - Make first Vue Component with Laravel](https://www.youtube.com/watch?v=Qpdpo6IlLSs)
