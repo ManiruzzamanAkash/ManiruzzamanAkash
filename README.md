@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [React Redux Complete Course Part 1 - Redux Introduction - React Basic to Pro Bangla Video Tutorial](https://www.youtube.com/watch?v=ZQGTKgu9lGU)
 - [#24 Context API Complete Tutorial - React basic to Pro Bangla Video Tutorial    Series](https://www.youtube.com/watch?v=TAgM5YRVvNA)
 - [Part 32 - Upgrade Laravel From 5.6 to 8.6 - Laravel Ecommerce Bangla Video Tutorial Series](https://www.youtube.com/watch?v=5pyuHmjxGCM)
 - [#23 useMemo() Hook in React  in Depth - React Basic To Pro Bangla Video Tutorial](https://www.youtube.com/watch?v=ycU2liNekd4)
 - [#15 Laravel Membership Management Day 15 -  Manage all data in a Seeder](https://www.youtube.com/watch?v=ArLciTf3fG4)
-- [Laravel with Vue JS - Laravel Advanced Bangla Video Tutorial - Make first Vue Component with Laravel](https://www.youtube.com/watch?v=Qpdpo6IlLSs)
 <!-- YOUTUBE:END -->
 
 <br />
