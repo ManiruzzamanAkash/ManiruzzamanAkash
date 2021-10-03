@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#3 Redux Beginner to Advanced - Subscribe and Pass Custom Payload Data in Reducer](https://www.youtube.com/watch?v=NfaE16C3YVM)
 - [#2 Redux Beginner to Advance Bangla Tutorial - Store and Action Reducer in Redux](https://www.youtube.com/watch?v=vSc8z7DvBSA)
 - [React Redux Complete Course Part 1 - Redux Introduction - React Basic to Pro Bangla Video Tutorial](https://www.youtube.com/watch?v=ZQGTKgu9lGU)
 - [#24 Context API Complete Tutorial - React basic to Pro Bangla Video Tutorial    Series](https://www.youtube.com/watch?v=TAgM5YRVvNA)
 - [Part 32 - Upgrade Laravel From 5.6 to 8.6 - Laravel Ecommerce Bangla Video Tutorial Series](https://www.youtube.com/watch?v=5pyuHmjxGCM)
-- [#23 useMemo() Hook in React  in Depth - React Basic To Pro Bangla Video Tutorial](https://www.youtube.com/watch?v=ycU2liNekd4)
 <!-- YOUTUBE:END -->
 
 <br />
