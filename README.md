@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#8 Redux Beginner to Advanced Bangla Tutorial - useDispatch  Store / Update Data in Redux Store](https://www.youtube.com/watch?v=4om4VH2khfI)
 - [Write Code Faster than Previous - Grepper - A StackOverflow Replacement](https://www.youtube.com/watch?v=yAJqwjNQPHU)
 - [#7 Redux Beginner to Advanced - Redux useSelector - Get Datas From Redux Store to React Component](https://www.youtube.com/watch?v=aYkoIFggwyM)
 - [#6 Redux Beginner to Advance Bangla Video Tutorial - Setup and Access Store in React Project](https://www.youtube.com/watch?v=MjVPRaPwt-o)
 - [#5 Redux Beginner to Advanced - Multiple Reducer  in Redux JS - Combined Reducer](https://www.youtube.com/watch?v=o5s-lzfNBWs)
-- [#4 Redux Beginner to Advanced Tutorial - Change Complex State in Redux Tutorial - React Basic to Pro](https://www.youtube.com/watch?v=R5YJk5KM5js)
 <!-- YOUTUBE:END -->
 
 <br />
