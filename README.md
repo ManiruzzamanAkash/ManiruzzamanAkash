@@ -1,7 +1,6 @@
-### Hello 👋
 <h1 align="center">Hi 👋 I'm Maniruzzaman Akash</h1>
 
-<h5 align="center">A passionate web/app developer who is writing stuffs with PHP, Laravel, React, React Native, Vue, Wordpress and more...</h5>
+<h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, React Native, Vue, Wordpress and more...</h5>
 
 
 - 🔭  &nbsp; I’m currently working at **[WeDevs Ltd](https://wedevs.com).**
@@ -58,3 +57,10 @@
 
 <p align="left"><a href="mailto:manirujjamanakash@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="ManiruzzamanAkash" height="40" width="40" /></a>&nbsp;<a href="https://twitter.com/ManiruzzamanAk" target="blank" ><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.linkedin.com/in/maniruzzamanakash/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://stackoverflow.com/users/5543577/maniruzzaman-akash" target="blank"><img align="center" src="https://img2.pngio.com/stackoverflow-icon-stack-overflow-png-512_512.png" alt="705293/ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://fb.com/maniruzzaman.akash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://maniruzzamanakash.medium.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.youtube.com/channel/UCHNblf0ynrP1DvoIO-ikgGg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.hackerrank.com/Maniruzzaman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ManiruzzamanAkash" height="40" width="40" /></a></p>
 <br />
+
+If you like my work you may consider buying me a ☕ / 🍕
+
+<a href="https://www.patreon.com/maniruzzaman" target="_blank" title="Buy Me A Coffee"> <img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="ManiruzzamanAkash" width="200" />
+ </a>
+
+🙏 for reading!
