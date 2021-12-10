@@ -38,7 +38,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [#4 React Redux Bangla Video Tutorial - Task List and Create Using API](https://www.youtube.com/watch?v=nTJXTrRO-Ws)
+- [#4 React Redux Complete Project, Part 4:  Bangla Video Tutorial - Task List and Create Using API](https://www.youtube.com/watch?v=nTJXTrRO-Ws)
 - [#29 Higher Order Component in React - React Basic to Pro Bangla Video Tutorials](https://www.youtube.com/watch?v=EoL-x4TBO-M)
 - [#28 Higher Order Function in JavaScript - React Basic to Pro Bangla Video Tutorials](https://www.youtube.com/watch?v=jozzn8sE45A)
 - [#15 Tree Sharing Laravel Bangla Video Tutorials -  Checkout Order - Store Order in Database](https://www.youtube.com/watch?v=aYEbuTSQblg)
