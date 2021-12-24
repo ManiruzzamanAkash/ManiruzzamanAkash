@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#8   Thunk Midleware and Action Creator Pattern](https://www.youtube.com/watch?v=6dZam95rSEw)
 - [#7   Task List and Create with Redux](https://www.youtube.com/watch?v=ufUiUNXLevw)
 - [#6   Redux with React Integration and Update State](https://www.youtube.com/watch?v=w5X-Ikax5-k)
 - [#5  Redux Complete Project Part 5 - Architecture and Redux Learning without React](https://www.youtube.com/watch?v=XLlNKCNINEQ)
 - [#4 React Redux Complete Project, Part 4:  Bangla Video Tutorial - Task List and Create Using API](https://www.youtube.com/watch?v=nTJXTrRO-Ws)
-- [#29 Higher Order Component in React - React Basic to Pro Bangla Video Tutorials](https://www.youtube.com/watch?v=EoL-x4TBO-M)
 <!-- YOUTUBE:END -->
 
 <br />
