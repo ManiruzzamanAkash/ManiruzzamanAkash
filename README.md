@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#10   Compleet Task management application CRUD](https://www.youtube.com/watch?v=Rqbk2YlxN2c)
 - [#9   Combined Reducer and In Depth of Redux](https://www.youtube.com/watch?v=bORtlJIPtiY)
 - [#8   Thunk Midleware and Action Creator Pattern](https://www.youtube.com/watch?v=6dZam95rSEw)
 - [#7   Task List and Create with Redux](https://www.youtube.com/watch?v=ufUiUNXLevw)
 - [#6   Redux with React Integration and Update State](https://www.youtube.com/watch?v=w5X-Ikax5-k)
-- [#5  Redux Complete Project Part 5 - Architecture and Redux Learning without React](https://www.youtube.com/watch?v=XLlNKCNINEQ)
 <!-- YOUTUBE:END -->
 
 <br />
