@@ -5,9 +5,9 @@
 
 - 🔭  &nbsp; I’m currently working at **[WeDevs Ltd](https://wedevs.com).**
 
-- ✎ &nbsp; I’m currently working with **Javascript**, **PHP**, **Laravel**, **React**, **Redux**, **Next JS**, **React Native**, **Vue JS**, **Node JS**, **Wordpress**
+- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Wordpress**, **Typescript**, **React Native**, **Vue JS**, **Node JS** and **Tailwind CSS**
 
-- ⭆  &nbsp; I’m currently learning **Typescript**, **GraphQL**, **GoLang**, **Docker**, **DevOps**, **Nest JS**
+- ⭆  &nbsp; I’m currently learning **GraphQL**, **GoLang**, **Docker**, **DevOps**, **Nest JS**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects/Libraries with PHP and JavaScript**
 
