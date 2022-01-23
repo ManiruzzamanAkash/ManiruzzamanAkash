@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Web Development Full Stack Complete Course Bangla - PHP, Laravel, React,  Next JS, Tailwind CSS](https://www.youtube.com/watch?v=Z8_U4YomqxU)
 - [#10 Redux Complete Project Bangla Video Tutorial -  Complete Task management application CRUD](https://www.youtube.com/watch?v=Rqbk2YlxN2c)
 - [#9 Redux Complete Project Bangla Tutorial - Combined Reducer and In Depth of Redux JS](https://www.youtube.com/watch?v=bORtlJIPtiY)
 - [#8 Redux Complete Project Bangla Tutorial - Thunk Midleware and Action Creator Pattern in Redux](https://www.youtube.com/watch?v=6dZam95rSEw)
 - [#7 Redux Complete Project Bangla video tutorial - Task List and Create with Redux JS Beginner Redux](https://www.youtube.com/watch?v=ufUiUNXLevw)
-- [#6 Redux Complete Project Bangla Tutorial - Redux with React Integration and Update State](https://www.youtube.com/watch?v=w5X-Ikax5-k)
 <!-- YOUTUBE:END -->
 
 <br />
