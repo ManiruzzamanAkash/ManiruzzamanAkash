@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Maniruzzaman Akash</h1>
 
-<h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, React Native, Vue, Wordpress and more...</h5>
+<h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, React Native, Vue, Wordpress, Bootstrap, Tailwind CSS and more...</h5>
 
 
 - 🔭  &nbsp; I’m currently working at **[WeDevs Ltd](https://wedevs.com).**
 
-- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Wordpress**, **Typescript**, **React Native**, **Vue JS**, **Node JS** and **Tailwind CSS**
+- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Wordpress**, **Gutenberg Block**, **Typescript**, **React Native**, **Vue JS**, **Node JS** and **Tailwind CSS**
 
 - ⭆  &nbsp; I’m currently learning **GraphQL**, **GoLang**, **Docker**, **DevOps**, **Nest JS**
 
