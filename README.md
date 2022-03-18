@@ -13,7 +13,7 @@
 
 - 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/ManiruzzamanAkash?tab=repositories](https://github.com/ManiruzzamanAkash?tab=repositories)
 
-- 💬  &nbsp;Ask me about **PHP, JavaScript, Laravel, React and Wordpress**
+- 💬  &nbsp;Ask me anything about **PHP, JavaScript, Laravel, React, TypeScript, WordPress, Next JS, Bootstrap, Tailwind, MySQL**
 
 - 📫  &nbsp;How to reach me **manirujjamanakash@gmail.com** [Preferrable]
 
@@ -21,7 +21,7 @@
 
 - ⚡  &nbsp;Fun fact **I love to watch movies...:P**
 
-- 🔥 &nbsp;My Greatest Power - **I can learn stuffs quickly & implement on demand !**
+- 🔥 &nbsp;My Greatest Power - **I can learn stuffs very quickly & implement on demand !**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="ManiruzzamanAkash" /> </p>
