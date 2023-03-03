@@ -5,23 +5,23 @@
 
 - 🔭  &nbsp; I’m currently working at **[WeDevs Ltd](https://wedevs.com).**
 
-- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Wordpress**, **Gutenberg Block**, **Typescript**, **React Native**, **Vue JS**, **Node JS** and **Tailwind CSS**
+- ✎ &nbsp; I’m currently working with  **PHP**, **Wordpress**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Gutenberg Block**, **Typescript**, **React Native**, **Vue JS**, **Node JS**, **Tailwind CSS**, **MySQL**, **Docker** and so on...
 
-- ⭆  &nbsp; I’m currently learning **GraphQL**, **GoLang**, **Docker**, **DevOps**, **Nest JS**
+- ⭆  &nbsp; I’m currently learning **Rust**, **DevOps**, **Microservices**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects/Libraries with PHP and JavaScript**
 
 - 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/ManiruzzamanAkash?tab=repositories](https://github.com/ManiruzzamanAkash?tab=repositories)
 
-- 💬  &nbsp;Ask me anything about **PHP, JavaScript, Laravel, React, TypeScript, WordPress, Next JS, Bootstrap, Tailwind, MySQL**
+- 💬  &nbsp;Ask me anything about **PHP, JavaScript, WordPress, Laravel, React, TypeScript, Next JS, Bootstrap, Tailwind, MySQL**
 
 - 📫  &nbsp;How to reach me **manirujjamanakash@gmail.com** [Preferrable]
 
 - 📫  &nbsp;Urgent Contact **+8801951233084** [Not Preferrable in Normal Case]
 
-- ⚡  &nbsp;Fun fact **I love to watch movies...:P**
+- ⚡  &nbsp;Fun fact **I love to watch movies. Travelling also fascinates me a lot.P**
 
-- 🔥 &nbsp;My Greatest Power - **I can learn stuffs very quickly & implement on demand !**
+- 🔥 &nbsp;My Greatest Power - **I can lead I can learn stuffs very quickly & implement on demand !**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="ManiruzzamanAkash" /> </p>
