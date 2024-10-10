@@ -1,105 +1,146 @@
-<h1 align="center">Hi 👋 I'm Maniruzzaman Akash</h1>
+<h1 align="center">Hi 👋, I'm Maniruzzaman Akash</h1>
+<h3 align="center">FullStack Developer | PHP, WordPress, Laravel, React, TypeScript
 
-<h5 align="center">A passionate web/app developer who writes stuff with PHP, Wordpress, Gutenberg Block, Laravel, React, TypeScript, React Native, Bootstrap, Tailwind CSS, Docker and more...</h5>
-
-- 🔭 &nbsp; I’m currently working at **[SureCart](https://surecart.com)** of **[Brainstorm Force Ltd](https://brainstormforce.com)**.
-
-- ✎ &nbsp; I’m currently working with **PHP**, **Wordpress**, **Gutenberg Block**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **React Native**, **Vue JS**, **Node JS**, **Tailwind CSS**, **MySQL**, **Docker** and so on...
-
-- ⭆ &nbsp; I’m currently learning **Rust**, **DevOps**, **Microservices**.
-
-- 👯 &nbsp; I’m looking to collaborate on **Open Source Projects/Libraries with PHP, WordPress and JavaScript/TypeScript**
-
-- 👨‍💻 &nbsp; Some of my projects are available at [https://github.com/ManiruzzamanAkash?tab=repositories](https://github.com/ManiruzzamanAkash?tab=repositories)
-
-- 💬 &nbsp;Ask me anything about **PHP, JavaScript, WordPress, Gutenberg Blocks, Laravel, React, TypeScript, Next JS, Bootstrap, Tailwind CSS, MySQL, Docker**.
-
-- 📫 &nbsp;How to reach me **manirujjamanakash@gmail.com** [Preferrable]
-
-- 📫 &nbsp;Urgent Contact **+8801951233084** [Not Preferrable in Normal Case]
-
-- ⚡ &nbsp;Fun fact **I love to watch movies. Travelling also fascinates me a lot.P**
-
-- 🔥 &nbsp;My Greatest Power - **I can lead & I can learn stuffs very quickly & implement on demand !**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="ManiruzzamanAkash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManiruzzamanAkash" alt="ManiruzzamanAkash" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ManiruzzamanAk" target="blank"><img src="https://img.shields.io/twitter/follow/ManiruzzamanAk?logo=twitter&style=for-the-badge" alt="ManiruzzamanAk" /></a> </p>
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/></a>
-<a href="https://wordpress.org" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="laravel" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/html-5.png" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap CSS" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-96x58-3fmpj8co.png" alt="Tailwind CSS" width="40" height="40"/></a>
-<a href="https://babeljs.io/" target="_blank"> <img src="https://img.icons8.com/wired/64/000000/babel.png" alt="babel" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vuejs" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40"/></a>
-
+<p align="center">
+  <a href="https://github.com/ManiruzzamanAkash">
+    <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ManiruzzamanAkash" alt="Trophies" />
+  </a>
+  <a href="https://twitter.com/ManiruzzamanAk" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ManiruzzamanAk?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
 </p>
 
-<br />
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManiruzzamanAkash&show_icons=true&locale=en&layout=compact&theme=radical" alt="ManiruzzamanAkash" /></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManiruzzamanAkash&show_icons=true&locale=en&theme=radical" alt="ManiruzzamanAkash" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManiruzzamanAkash&theme=radical" alt="ManiruzzamanAkash" /></p>
+I'm a passionate web and app developer specializing in building high-quality solutions using a diverse set of technologies. Currently, I work at [SureCart](https://surecart.com) under [Brainstorm Force Ltd](https://brainstormforce.com).
 
-### 📺 Find Me on YouTube
-Channel - https://www.youtube.com/@Maniruzzaman
+### 🔭 Current Work
+- **Company:** [SureCart](https://surecart.com) at **[Brainstorm Force Ltd](https://brainstormforce.com)**.
+- **Tech Stack:**
+    - PHP
+    - WordPress
+    - Gutenberg Blocks
+    - Laravel
+    - JavaScript
+    - React
+    - Redux
+    - Next.js
+    - TypeScript
+    - React Native
+    - Vue.js
+    - Node.js
+    - Tailwind CSS
+    - MySQL
+    - Docker
+    - and more.
 
-**Some Playlists you may wanna check**
+### 🌱 Learning
+- Rust
+- DevOps
+- Microservices
+
+### 👯 Collaboration
+- Open Source Projects/Libraries in PHP, WordPress, JavaScript, and TypeScript.
+
+### 💻 Projects
+Check out some of my projects on [GitHub](https://github.com/ManiruzzamanAkash?tab=repositories).
+
+### 🗣️ Ask Me
+Feel free to ask me anything about PHP, JavaScript, WordPress, Gutenberg Blocks, Laravel, React, TypeScript, Next.js, Bootstrap, Tailwind CSS, MySQL, Docker.
+
+### 📫 Contact Me
+- **Email:** [manirujjamanakash@gmail.com](mailto:manirujjamanakash@gmail.com) *(Preferred)*
+- **Phone:** +8801951233084 *(For urgent matters)*
+
+### ⚡ Fun Fact
+I love watching movies and traveling!
+
+### 🔥 Greatest Power
+I can lead and learn new things very quickly and implement them on demand!
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.php.net" target="_blank"><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/></a>
+  <a href="https://wordpress.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="40" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" width="40" height="40"/></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManiruzzamanAkash&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManiruzzamanAkash&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiruzzamanAkash&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📺 YouTube
+
+**Channel:** [@Maniruzzaman](https://www.youtube.com/@Maniruzzaman)
+
+**Popular Playlists:**
+
 <!-- YOUTUBE:START -->
 
-- [Advanced REST API Development using Laravel (English) → <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/YouTube_play_button_circular_%282013-2017%29.svg" width="20">](https://www.youtube.com/playlist?list=PL_ftyCsXJUO6O7L5j9Ps295a2C3dSfuvj)
+- [Advanced REST API Development using Laravel (English)](https://www.youtube.com/playlist?list=PL_ftyCsXJUO6O7L5j9Ps295a2C3dSfuvj) ![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?logo=youtube&logoColor=white)
+- [Real-time Chat Application using Laravel & React (English)](https://www.youtube.com/playlist?list=PL_ftyCsXJUO5n_vN0f2UFwt3UYRnrNOid) ![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?logo=youtube&logoColor=white)
+- [React JS Beginner to Advanced Tutorial (Bangla)](https://www.youtube.com/playlist?list=PL_ftyCsXJUO7QUnhrNkwoBkKRLbHvh8LF) ![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?logo=youtube&logoColor=white)
+- [Live Session - WordPress Plugin Development Beginner Level (Bangla)](https://www.youtube.com/watch?v=k6Wy1QlV99E&list=PL_ftyCsXJUO7pHb3x6l4VK4HcV6r8AbUl) ![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?logo=youtube&logoColor=white)
+- [PHPUnit Testing Beginner to Intermediate (Bangla)](https://www.youtube.com/watch?v=ltW5z4Qh0dc&list=PL_ftyCsXJUO7_rOuWYJuqphLZQdOOGYU1) ![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?logo=youtube&logoColor=white)
+- [Laravel Custom Package Development (Bangla)](https://www.youtube.com/watch?v=B5gasze0WRQ) ![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?logo=youtube&logoColor=white)
+- [How to make a Custom MVC framework using PHP (Bangla)](https://www.youtube.com/watch?v=9TK-J0RtXpM) ![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?logo=youtube&logoColor=white)
+- [Build a complete Ecommerce web application using Laravel (Very old, in Laravel 5.6) (Bangla)](https://www.youtube.com/playlist?list=PL_ftyCsXJUO6INx0w_f4BUkalUD7XXwMX) ![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?logo=youtube&logoColor=white)
 
-- [Real-time Chat Application using Laravel & React (English) → <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/YouTube_play_button_circular_%282013-2017%29.svg" width="20">](https://www.youtube.com/playlist?list=PL_ftyCsXJUO5n_vN0f2UFwt3UYRnrNOid)
+<!-- YOUTUBE:END -->
 
-- [React JS Beginner to Advanced Tutorial (Bangla) → <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/YouTube_play_button_circular_%282013-2017%29.svg" width="20">](https://www.youtube.com/playlist?list=PL_ftyCsXJUO7QUnhrNkwoBkKRLbHvh8LF)
+---
 
-- [Live Session - WordPress Plugin Development Beginner Level (Bangla) → <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/YouTube_play_button_circular_%282013-2017%29.svg" width="20">](https://www.youtube.com/watch?v=k6Wy1QlV99E&list=PL_ftyCsXJUO7pHb3x6l4VK4HcV6r8AbUl)
+## 📫 Connect with Me
 
-- [PHPUnit Testing Beginner to Intermediate (Bangla) → <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/YouTube_play_button_circular_%282013-2017%29.svg" width="20">](https://www.youtube.com/watch?v=ltW5z4Qh0dc&list=PL_ftyCsXJUO7_rOuWYJuqphLZQdOOGYU1)
+| Platform        | Link |
+|-----------------|------|
+| 📧 Email        | [manirujjamanakash@gmail.com](mailto:manirujjamanakash@gmail.com) |
+| 🐦 Twitter      | [@ManiruzzamanAk](https://twitter.com/ManiruzzamanAk) |
+| 💼 LinkedIn     | [maniruzzamanakash](https://www.linkedin.com/in/maniruzzamanakash/) |
+| 📝 Stack Overflow | [maniruzzaman-akash](https://stackoverflow.com/users/5543577/maniruzzaman-akash) |
+| 📘 Facebook     | [maniruzzaman.akash](https://fb.com/maniruzzaman.akash) |
+| 📝 Medium       | [maniruzzamanakash](https://maniruzzamanakash.medium.com/) |
+| 📺 YouTube      | [Maniruzzaman](https://www.youtube.com/channel/UCHNblf0ynrP1DvoIO-ikgGg) |
+| 🎯 HackerRank   | [Maniruzzaman](https://www.hackerrank.com/Maniruzzaman) |
 
-- [Laravel Custom Package Development (Bangla) → <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/YouTube_play_button_circular_%282013-2017%29.svg" width="20">](https://www.youtube.com/watch?v=B5gasze0WRQ)
+---
 
-- [How to make a Custom MVC framework using PHP (Bangla) → <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/YouTube_play_button_circular_%282013-2017%29.svg" width="20">](https://www.youtube.com/watch?v=9TK-J0RtXpM)
-
-
-  <!-- YOUTUBE:END -->
-  <br />
-
-<h3 align="left">Connect with me:</h3>
-
-| Platform | Link |
-|----------|------|
-| Email | [manirujjamanakash@gmail.com](mailto:manirujjamanakash@gmail.com) |
-| Twitter | [ManiruzzamanAk](https://twitter.com/ManiruzzamanAk) |
-| LinkedIn | [maniruzzamanakash](https://www.linkedin.com/in/maniruzzamanakash/) |
-| Stack Overflow | [maniruzzaman-akash](https://stackoverflow.com/users/5543577/maniruzzaman-akash) |
-| Facebook | [maniruzzaman.akash](https://fb.com/maniruzzaman.akash) |
-| Medium | [maniruzzamanakash](https://maniruzzamanakash.medium.com/) |
-| YouTube | [Maniruzzaman](https://www.youtube.com/channel/UCHNblf0ynrP1DvoIO-ikgGg) |
-| HackerRank | [Maniruzzaman](https://www.hackerrank.com/Maniruzzaman) |
-
-<br />
-
-### Support My Work
+## ❤️ Support My Work
 
 If you find my work helpful and would like to support me, you can:
 
@@ -107,3 +148,6 @@ If you find my work helpful and would like to support me, you can:
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/maniruzzaman)
 
 Your support is greatly appreciated! ☕🍕
+
+---
+
